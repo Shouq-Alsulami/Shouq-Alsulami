@@ -12,7 +12,7 @@ I'm a Computer Science graduate with a strong interest in **AI-driven systems**,
 I enjoy building intelligent solutions that bridge research and real-world impact — from healthcare analytics to sports performance modeling.  
 
 My learning journey combines both **technical development** and **applied research**, focusing on how AI can improve understanding, efficiency, and decision-making across different domains.
-
+<!--
 ---
 
 ## 💻 Technical Skills
@@ -46,6 +46,7 @@ My learning journey combines both **technical development** and **applied resear
 - **IBM Back-End Development Professional Certificate** — IBM (2025)
 
 ---
+-->
 <!--
 **Shouq-Alsulami/Shouq-Alsulami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
