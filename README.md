@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<h1 align="center">Hey there, welcome to my world (●'◡'●)</h1>
+<h1 align="center">Welcome to my corner of GitHub ✨</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Hi, I'm Shouq , a CS graduate exploring the world of data, skilled in ML and data analysis.<br><br>- 🔬 Background: Former undergraduate researcher at University of Toronto, where I dove deep into computational research and got hooked on solving complex problems with data.<br><br>- 🤖 What I do: I build computer vision pipelines and bring them to production – currently leveling up my skills in automation and DevOps best practices to make ML systems more robust and scalable.<br><br>- 🧬 What excites me: Healthcare data, especially genomics. There's something fascinating about using ML to unlock insights from biological data that could genuinely impact people's lives.<br><br>📍 Based in Jeddah, Saudi Arabia</p>
+<p align="left">Hi, I'm <b> Shouq </b> , a CS graduate exploring the world of data, skilled in ML and data analysis.<br><br>- 🔬 Background: Former undergraduate researcher at University of Toronto, where I dove deep into computational research and got hooked on solving complex problems with data.<br><br>- 🤖 What I do: I build computer vision pipelines and bring them to production – currently leveling up my skills in automation and DevOps best practices to make ML systems more robust and scalable.<br><br>- 🧬 What excites me: Healthcare data, especially genomics. There's something fascinating about using ML to unlock insights from biological data that could genuinely impact people's lives.<br><br>📍 Based in Jeddah, Saudi Arabia</p>
 
 ###
 
