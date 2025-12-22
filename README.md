@@ -1,63 +1,67 @@
-# 👋 Hi, I'm Shouq Alsulami  
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🎓 **Bachelor in Computer Science** | King Abdulaziz University, Jeddah, Saudi Arabia  
-💡 Passionate about **AI, Machine Learning, and Cloud Computing**  
-📍 Based in Jeddah | Fluent in **Arabic** and **English**
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-## 🧠 About Me
+###
 
-I'm a Computer Science graduate with a strong interest in **AI-driven systems**, **data science**, and **cloud technologies**.  
-I enjoy building intelligent solutions that bridge research and real-world impact — from healthcare analytics to sports performance modeling.  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
-My learning journey combines both **technical development** and **applied research**, focusing on how AI can improve understanding, efficiency, and decision-making across different domains.
-<!--
----
+###
 
-## 💻 Technical Skills
+<h1 align="center">hey there 👋</h1>
 
-**Programming & Data:** Python, R, SQL, Java  
-**AI & ML Frameworks:** PyTorch, TensorFlow, Scikit-learn  
-**Cloud & Deployment:** Azure, Docker, Kubernetes, Terraform, GitHub Actions, MLOps Fundamentals  
-**NLP & LLM Tools:** Hugging Face, LangChain, OpenAI API  
-**Core Strengths:** Data Analysis • Problem Solving • Collaboration • Communication  
+###
 
----
+<h3 align="left">👩‍💻  About Me</h3>
 
-## 🎓 Education & Programs
+###
 
-- **Bachelor in Computer Science**, King Abdulaziz University (2020–2025)  
-  GPA: 4.8/5.0 — First Class Honours  
+<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
-- **Summer Undergraduate Data Science Research Program**, University of Toronto (2024)  
-  Conducted research using statistical methods and data visualization for healthcare insights.  
+###
 
-- **AI for Sports Program**, KAUST x Stats Perform (2025)  
-  Focused on computer vision and transformer-based models for sports performance analytics.  
+<h3 align="left">🛠 Language and tools</h3>
 
-- **LLMs Bootcamp**, SDAIA Academy (2024)  
-  Hands-on experience in prompt engineering, model evaluation, and NLP applications.  
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+</div>
 
-## 🏆 Certifications
-- **AI-900: Microsoft Azure AI Fundamentals** — Microsoft (2025)  
-- **IBM Back-End Development Professional Certificate** — IBM (2025)
+###
 
----
--->
-<!--
-**Shouq-Alsulami/Shouq-Alsulami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">🔥   My Stats :</h3>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
