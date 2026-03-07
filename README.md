@@ -64,18 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shouq-Alsulami&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="176" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Shouq-Alsulami&theme=dark&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&exclude_days=Sun&card_width=350&card_height=176" alt="GitHub Streak" />
-</div>
 
 ###
 
